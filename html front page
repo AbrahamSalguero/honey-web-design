@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <img src="" alt="">
+    </header>
+    <header2>
+        <nav class="header-menu">
+            <ul class="list-menu-header">
+                <li><a href="#">home</a></li>
+                <li><a href="#">About us</a></li>
+                <li><a href="#">Honey</a></li>
+              <li><a href="#">Honeybees</a></li>
+            </ul>
+        </nav>
+    </header2>
+    <main>
+       <div class="cabecera-box">
+            <h2>CABECERA</h2>
+          </div>
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, ea a dignissimos, veritatis libero consequuntur quaerat similique molestias tempora eaque excepturi fugiat dolores provident tenetur exercitationem inventore aperiam dicta iusto?</p>
+                    <button>More</button>
+                </div>
+            </div>
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officia quidem repudiandae, eum, quos exercitationem possimus, voluptates qui temporibus aperiam optio numquam nesciunt consequatur fugit ratione labore ipsum doloremque! Architecto, harum!</p>
+                    <button>More</button>
+                </div>
+            </div>
+        </article>
+    <article class="colmenas-article-main">
+      <!--FIRST SLIDER 33%-->
+    <article class="colmenas-article">
+          <!-- Slider main container -->
+    <div class="swiper">
+   <!-- Additional required wrapper -->
+    <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide">Slide 1</div>
+    <div class="swiper-slide">Slide 2</div>
+    <div class="swiper-slide">Slide 3</div>
+    <div class="swiper-slide">Slide 4</div>
+    <div class="swiper-slide">Slide 5</div>
+    <div class="swiper-slide">Slide 6</div>
+    ...
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+  <!-- If we need scrollbar -->
+  <div class="swiper-scrollbar"></div>
+</div>
+</article>
+      <!--END FIRST SLIDER 33%-->
+ <!--SECOND SLIDER 33%-->
+      <article class="colmenas-article">
+          <!-- Slider main container -->
+<div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide">Slide 1</div>
+    <div class="swiper-slide">Slide 2</div>
+    <div class="swiper-slide">Slide 3</div>
+    <div class="swiper-slide">Slide 4</div>
+    <div class="swiper-slide">Slide 5</div>
+    <div class="swiper-slide">Slide 6</div>
+    ...
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+  <!-- If we need scrollbar -->
+  <div class="swiper-scrollbar"></div>
+</div>
+</article>
+ </article>
+  <!----END SECOND SLIDER 33%-->
+      <!-----THIRD SLIDER 33%-->
+            <article class="colmenas-article">
+          <!-- Slider main container -->
+<div class="swiper">
+  <!-- Additional required wrapper -->
+  <div class="swiper-wrapper">
+    <!-- Slides -->
+    <div class="swiper-slide">
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+    </div>
+    <div class="swiper-slide">
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+    </div>
+    <div class="swiper-slide">
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+    </div>
+    <div class="swiper-slide">
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+    </div>
+    <div class="swiper-slide">
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+    </div>
+    <div class="swiper-slide">
+        <article class="box-article">
+            <div class="box">
+                <div class="box-inside">
+                    <img src="" alt="">
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Unde laudantium magnam ratione ut molestias molestiae. A eaque deleniti laudantium praesentium, minima consequatur sunt impedit explicabo amet culpa beatae laborum quis.</p>
+                    <button>More</button>
+                </div>
+            </div>
+    </div>
+    ...
+  </div>
+  <!-- If we need pagination -->
+  <div class="swiper-pagination"></div>
+
+  <!-- If we need navigation buttons -->
+  <div class="swiper-button-prev"></div>
+  <div class="swiper-button-next"></div>
+
+  <!-- If we need scrollbar -->
+  <div class="swiper-scrollbar"></div>
+</div>
+</article>
+      <!----END THIRD SLIDER 33%-->
+ </main>
+    <footer>
+        <nav class="footer-menu">
+            <ul class="footer-list">
+                <li>Privacity Police</li>
+                <li>Cookies</li>
+                <li>Terms & conditions</li>
+            </ul>
+        </nav>
+    </footer>
+</body>
+</html>
